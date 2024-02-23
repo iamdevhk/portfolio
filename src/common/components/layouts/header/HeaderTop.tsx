@@ -14,6 +14,7 @@ import Image from '../../elements/Image';
 import ThemeToggleButton from '../../elements/ThemeToggleButton';
 import Tooltip from '../../elements/Tooltip';
 import Profile from '../../sidebar/Profile';
+import { useRouter } from 'next/router';
 
 const HeaderTop = () => {
   const [showMenu, setShowMenu] = useState(false);
