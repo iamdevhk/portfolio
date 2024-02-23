@@ -1,0 +1,83 @@
+import { Head, Html, Main, NextScript } from 'next/document';
+
+export default function Document() {
+  return (
+    <Html lang='en'>
+      <Head>
+        <link
+          rel='apple-touch-icon'
+          sizes='57x57'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='60x60'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='72x72'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='76x76'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='114x114'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='120x120'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='144x144'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='152x152'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='apple-touch-icon'
+          sizes='180x180'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='icon'
+          type='image/jpg'
+          sizes='192x192'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='icon'
+          type='image/jpg'
+          sizes='32x32'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='icon'
+          type='image/jpg'
+          sizes='96x96'
+          href='/favicon/headshot.jpg'
+        />
+        <link
+          rel='icon'
+          type='image/jpg'
+          sizes='16x16'
+          href='/favicon/headshot.jpg'
+        />
+      </Head>
+      <body>
+        <Main />
+        <NextScript />
+      </body>
+    </Html>
+  );
+}
