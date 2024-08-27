@@ -2,6 +2,18 @@ import { CareerProps } from '../types/careers';
 
 export const CAREERS: CareerProps[] = [
   {
+    position: 'Software Developer Intern',
+    company: 'Intradiem',
+    logo: '/images/careers/int.jpeg',
+    location: 'Seattle',
+    location_type: 'Remote',
+    type: 'Internship',
+    start_date: '2024-06',
+    end_date: '2024-08',
+    industry: 'Software',
+    link: 'https://intradiem.com/',
+  },
+  {
     position: 'Software Developer',
     company: 'Texas Instruments',
     logo: '/images/careers/ti.jpg',
