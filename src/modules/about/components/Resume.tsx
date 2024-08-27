@@ -3,7 +3,7 @@ import { LuDownload as DownloadIcon } from 'react-icons/lu';
 
 const Resume = () => {
   const RESUME_URL =
-    'https://docs.google.com/document/d/1QmKc1R3tqQj6dQCj1Wl5QzPb3tO3NDiDg2soOhnLEqc/edit?usp=sharing';
+    'https://drive.google.com/file/d/1SSLhMPK_iqkw1xfW1WQTMG2qo0NqU-pH/view?usp=sharing';
 
   return (
     <Link
