@@ -15,8 +15,7 @@ const Services = () => {
           <h3 className='text-xl font-medium'>Lets work together!</h3>
         </div>
         <p className='leading-[1.8] md:leading-loose text-neutral-800 dark:text-neutral-300 pl-2'>
-        Currently on the lookout for a Software Engineer / Full Stack Developer roles starting March 2025. Eager to leverage my skills in contributing to innovative projects. Please feel free to reach out to me, and let's discuss how my expertise aligns with your organization's goals..
-        </p>
+        Always open to connecting on anything tech! I enjoy discussing innovative ideas, emerging technologies, and potential collaborations. Let’s connect and exchange insights        </p>
         <Button
           data-umami-event='Click Contact Button'
           onClick={() => Router.push('/contact')}

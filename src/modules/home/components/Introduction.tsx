@@ -16,7 +16,7 @@ const Introduction = () => {
       </div>
 
       <p className='leading-[1.8] md:leading-loose mt-6 text-neutral-800 dark:text-neutral-300'>
-      Software Engineer with 2.5 years in the industry, currently pursuing Masters in Computer Science. I'm in love with full-stack development and cloud computing. A curious, self-driven individual, I thrive on staying ahead in this ever-evolving tech landscape. Let's code the future! 💻✨
+      Software Engineer at Amazon with 2.5 years of prior industry experience and a Master’s in Computer Science. I’m passionate about full-stack development, cloud computing, and AI. A curious, self-driven individual, I thrive on staying ahead in this ever-evolving tech landscape. Let’s code the future!
       </p>
     </section>
   );
